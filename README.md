@@ -1,1 +1,1 @@
-# GitHub Example Repository for GitHub HandsOn.
+# GitHub sample Repository for GitHub HandsOn.
